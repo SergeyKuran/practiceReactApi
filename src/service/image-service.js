@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API_KEY = '5yLdReu0aJ1AU7V6znvRpGjaiH5Px2OjlPIKaiYysWZSP0XsB8rT1ZmR';
-axios.defaults.baseURL = 'https://api.pexels.com/v1/';
+axios.defaults.baseURL = 'https://apiv.pexelsssssssssssssssssss.com/v1/';
 axios.defaults.headers.common['Authorization'] = API_KEY;
 axios.defaults.params = {
   orientation: 'landscape',
